@@ -1,4 +1,4 @@
-# MC1RANGER
+# RM-ReactorHunt
 
 **Threat Detection Engineering · Cyber Threat Intelligence · Threat Hunting**
 
@@ -22,7 +22,7 @@ Good detection content explains the behavior, required data, validation method, 
 
 ## Featured project
 
-### [Threat Hunting Team (THT)](https://github.com/MC1RANGER/Threat-Hunting-Team-THT-)
+### [Threat Hunting Team (THT)](https://github.com/RM-ReactorHunt/Threat-Hunting-Team-THT-)
 
 A community knowledge base for CTI, Threat Hunting, and Detection Engineering, with SentinelOne-oriented research and defensive resources.
 
@@ -35,8 +35,10 @@ A community knowledge base for CTI, Threat Hunting, and Detection Engineering, w
 
 ## Collaboration
 
+[LinkedIn](https://www.linkedin.com/in/rainieri-marmolejos-cabrera-0b2754103/)
+
 Research discussion, technical corrections, and validation results are welcome through issues and pull requests in the relevant repository.
 
 ---
 
-<sub>Published under the MC1RANGER pseudonym for authorized defensive security, education, and research. References to vendors or communities do not imply endorsement or employment.</sub>
+<sub>Published under the RM-ReactorHunt pseudonym for authorized defensive security, education, and research. References to vendors or communities do not imply endorsement or employment.</sub>
